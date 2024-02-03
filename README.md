@@ -10,11 +10,12 @@ The Library Management System (LMS) is a software application designed to manage
   - Track book details such as title, author, ISBN, genre, and publication date.
 
 - **Member Registration:**
-  - Register new members with details like name, email, phone, and address.
+  - Register new members with details like name, email, phone, and Password.
 
 - **Transaction Tracking:**
   - Record book borrowings and returns.
   - Track transaction status (e.g., borrowed, returned).
+  - Track User's Views
 ## Technologies Used
 - C# (Programming Language)
 - WinForms (User Interface)
@@ -24,4 +25,4 @@ The Library Management System (LMS) is a software application designed to manage
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/M-Eivazi/Library-Management-System.git
+   git clone https://github.com/M-EIVAZI/Library-Management-System.git
